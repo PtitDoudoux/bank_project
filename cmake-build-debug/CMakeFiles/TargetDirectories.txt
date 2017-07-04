@@ -1,3 +1,0 @@
-/home/dudoux/Documents/Cours/langage_c/bank_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/dudoux/Documents/Cours/langage_c/bank_project/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/dudoux/Documents/Cours/langage_c/bank_project/cmake-build-debug/CMakeFiles/bank_project.dir
